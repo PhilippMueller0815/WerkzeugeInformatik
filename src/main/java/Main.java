@@ -8,6 +8,7 @@ public class Main {
         Car car3 = new Car("blue", "VW", 3);
 
         Car car4 = new Car("green", "Renault", 4);
+        Car car5 = new Car("yellow", "Nissan", 6);
 
         factory.buildCar(car1);
         factory.buildCar(car2);
